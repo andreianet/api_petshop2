@@ -1,15 +1,16 @@
-**API REST Padronizada e Escalável - PetShop2**
+**API REST Padronizada e Escalável - PetShop**
 
 Esse projeto foi realizado devido ao curso da Alura, onde pude revisar conceitos, tecnologias e aprender um pouco mais sobre NodeJs.
 
 <strong>Aprendizado neste curso:</strong>
+
 * Sobre API, como criar, gerenciar requisições e métodos em uma API;
-* Como trabalhar com formato de dados JSON em JSON;
+* Como trabalhar com formato de dados JSON em JS;
 * Gerenciar conexão com banco de dados;
 * Organizar API em arquivos separados;
 * Validar Informações, educar API em casos de sucesso ou erros diferentes;
 * Reconhecer erros comuns na API, criar erros customizados com JS;
-* Usar middlewares na APi com express e tratar error em JS;
+* Usar middlewares na API com express e tratar erros em JS;
 * Sobre Serializador e como criar;
 * Filtrar campos de um objeto;
 * Padrão do projeto: Template Method;
